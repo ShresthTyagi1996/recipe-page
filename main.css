@@ -20,20 +20,20 @@ body {
     font-family: "outfit";
 }
 
-.recipe-container { /* More descriptive name */
+.recipe-container { 
     width: 60%;
     background-color: #fff;
-    padding: 50px; /* Add some padding */
-    border-radius: 10px; /* Apply border-radius here */
+    padding: 50px; 
+    border-radius: 10px; 
 }
 
-.recipe-image { /* Style the image separately */
+.recipe-image { 
     width: 100%;
-    border-radius: 10px; /* Round the image corners */
+    border-radius: 10px; 
     margin-bottom: 20px;
 }
 
-.recipe-overview { /* More descriptive name */
+.recipe-overview { 
     margin-bottom: 20px;
 }
 
@@ -42,7 +42,7 @@ body {
     margin-bottom: 10px;
 }
 
-.preparation-time { /* More descriptive name */
+.preparation-time { 
     background-color: #FFF7FC;
     padding: 20px;
     margin-bottom: 20px;
@@ -50,7 +50,7 @@ body {
 
 .preparation-time h4 {
     color: var(--primary-color);
-    font-size: 1.2rem; /* Use rem */
+    font-size: 1.2rem; 
     margin-bottom: 10px;
 }
 
